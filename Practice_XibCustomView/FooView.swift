@@ -26,7 +26,6 @@ final class FooView: UIView {
         }
         
         fooView.frame = self.bounds
-        
         self.addSubview(fooView)
     }
     
